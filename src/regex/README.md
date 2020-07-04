@@ -1,6 +1,6 @@
 **<h1>Day 3 : Regex</h1>**
 
-All the exercise instructions can be foudn in the Regex.java class file
+All the exercise instructions can be found in the Regex.java class file
 
 * What does the following pattern match? (\d){36} explain in a println() statement.
 
